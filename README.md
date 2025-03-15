@@ -8,7 +8,7 @@ This is a carefully curated collection of mpv player settings, scripts, and conf
 ### Easy Download and Setup
 
 1. **Download the files:**
-   - Visit: https://github.com/yourusername/mpv-config
+   - Visit: https://github.com/Arch3nemy7/mpv-config
    - Click the green "Code" button
    - Select "Download ZIP"
    - The file will download to your computer
